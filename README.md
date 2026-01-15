@@ -131,4 +131,4 @@ npm run start
 
 ## Disclaimer
 
-This robot is intended solely for educational and research purposes. Use at your own risk. The developer shall not be held liable for any financial losses incurred as a result of using this software.
+This robot is intended solely for educational and research purposes. Use at your own risk. The developer shall not be held liable for any financial losses incurred as a result of using this software. 
